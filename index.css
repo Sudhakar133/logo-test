@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(233, 232, 231);
+}
+.smallbox{
+    background-color: white;
+    text-align: center;
+    padding: 45px 20px;
+    border: 0px;
+    border-radius: 5px;
+    margin-top: 40px;
+}
+i{
+    color: blue;
+}
+.fa-Github{
+    color: rgb(0, 255, 42);
+}
+.fa-Pinterest{
+    color: rgb(17, 0, 255);
+}
+.cont{
+    margin: 15px 0px;
+}
+a{
+    border-bottom: 2px solid rgb(0, 166, 255);
+}
+.box{
+    padding: 70px 5px;
+}
